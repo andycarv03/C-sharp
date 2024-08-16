@@ -1,0 +1,96 @@
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\bin\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\bin\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\bin\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\bin\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\bin\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\bin\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\Kumudayini_k01\Downloads\QuickKart (4)\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
