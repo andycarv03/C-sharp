@@ -1,0 +1,12 @@
+D:\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
