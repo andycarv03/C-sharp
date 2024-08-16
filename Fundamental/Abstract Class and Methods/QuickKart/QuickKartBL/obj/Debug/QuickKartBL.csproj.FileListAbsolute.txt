@@ -1,0 +1,18 @@
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\andyc\Downloads\Abstract Class and Methods\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\andyc\Downloads\Abstract Class and Methods\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\Abstract Class and Methods\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\andyc\Downloads\Abstract Class and Methods\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\andyc\Downloads\Abstract Class and Methods\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\andyc\Downloads\Abstract Class and Methods\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
