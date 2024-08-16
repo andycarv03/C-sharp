@@ -1,0 +1,47 @@
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\Kumudayini_k01\OneDrive - Infosys Limited\Oct 22-Mar 23\Advanced CSharp Course Revamp\NeedForSingleReponsibilityPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\NeedForOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Supplied Folders\Day 1\SOLID Principles\NeedForSingleReponsibilityPrinciple - Copy\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\andyc\Downloads\ForApplyingOpenClosedPrinciple1688557206174\ForApplyingOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll

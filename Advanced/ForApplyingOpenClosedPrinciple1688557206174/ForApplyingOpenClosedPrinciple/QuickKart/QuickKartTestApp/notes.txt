@@ -1,0 +1,6 @@
+﻿There are several techniques for implementing Open / Closed Principle. All the techniques are based upon abstraction and the most common form of abstraction is creating an abstract class or an interface.
+
+But, in our scenario, the Customer class has many properties which are common to all types of customers. These common details should also be retrieved through the existing GetCustomerDetails(). Hence, instead of making the Customer class as abstract base class, we can still go ahead with non-abstract base class, but move respective properties to its derived classes and override the basic functionality of the GetCustomerDetails() method.
+
+we modify the Customer class to add the respective customer type details in separate classes.
+we override the virtual methods in the base class in derived classes and modify the main to use proper classes and oobtain the customer info
