@@ -1,0 +1,50 @@
+﻿The solution has following two projects:
+
+1 .QuickKartBL - To implement Business Logic
+2 .QuickKartTestApp - To implement Presentation Logic
+
+
+Customer class has propties to store customer data including customer type related data.
+        public string CustomerId { get; set; }
+        public string CustomerName { get; set; }
+        public string ContactNumber { get; set; }
+        public string EmailId { get; set; }
+        public string Address { get; set; }
+        public string CustomerType { get; set; }
+        public double DiscountPercentage { get; set; }
+        public string MembershipCardType { get; set; }
+        public int CouponsOwned { get; set; }
+
+CustomerType                cam be Regular or Privileged,
+DiscountPercentage          should be applied on purchases made only by a RegularCustomer
+MembershipCardType          applies only to a PrivilegedCustomer and can be ‘Silver’, ‘Gold’ or ‘Platinum’
+
+Methods -
+Customer has a parameterized constructor to initialize all properties using appropriate parameters.
+
+GetCustomerDetails()
+method that returns a formatted string with customer details to display based on CustomerType.
+
+UpdateContactDetails()
+method to update only contact details irrespective of the CustomerType
+
+
+=> The code is tested and reliable to display details, even if more number of customer objects are create.
+
+Now, lets say there is a requirement to add another CustomerType as “EliteCustomer”. Every EliteCustomer type should be given CouponsOwned on every purchase and its should be applicable only to EliteCustomer  type.
+
+Identifying the modifications to be done on the existing class Customer to implement this new requirement -
+    A new property should be added to store CouponsOwned. 
+    Constructor should be modified with another parameter and initialize the new property. 
+    GetCustomerDetails() should be modified, by adding another if condition to check for CustomerType as ‘EliteCustomer’ and format the string to be returned with CouponsOwned.
+
+    The client code, i.e., the Main() which is using the Customer class to create objects also has to be modified.
+
+    //There was a bug introduced while modifying the existing code to implement the new requirement. The bug crashed the complete tested, reliable and working code.
+
+Q: How do you solve this issue when the new requirement has to be implemented without modifying the existing code in class Customer?
+
+By designing the class Customer in such a way that it is Open for extension, but closed for modification.
+
+Open for Extension - Make Customer class as base class or an interface
+Closed for Modification - Create derived classes for the Customer class and make modifications in the derived classes 

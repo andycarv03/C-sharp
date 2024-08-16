@@ -1,0 +1,60 @@
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb

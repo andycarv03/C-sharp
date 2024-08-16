@@ -1,0 +1,102 @@
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\2. Method Overriding\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Recording\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\Kumudayini_MSTRack\Oct19-Mar20\Course Content\CSharp - Neha\Demos\Nehaa\For_Demo\3. Dynamic Method Dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Downloads\34.Dynamicmethoddispatch\34. Dynamic method dispatch\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\sneha.abraham\Documents\AdCSharp_ContentWork\3SoildPrinciples_SnehaDraft 1\Open&Closed Principle\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.SuggestedBindingRedirects.cache
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\Open&Closed Principle_ForReview\Open&Closed Principle_ForReview\Open&ClosedPrinciple_VSDemos\Need For Open&Closed Principle\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.SuggestedBindingRedirects.cache
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\Open&Closed Principle_ForReview\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\andyc\Downloads\BeforeOpenClosedPrinciple\BeforeOpenClosedPrinciple\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
