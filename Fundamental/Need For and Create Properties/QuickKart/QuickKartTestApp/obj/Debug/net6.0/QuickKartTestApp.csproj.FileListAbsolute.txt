@@ -1,0 +1,36 @@
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\refint\QuickKartTestApp.dll
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\kumudayini_k01\Downloads\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\refint\QuickKartTestApp.dll
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\andyc\Downloads\Need For and Create Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
