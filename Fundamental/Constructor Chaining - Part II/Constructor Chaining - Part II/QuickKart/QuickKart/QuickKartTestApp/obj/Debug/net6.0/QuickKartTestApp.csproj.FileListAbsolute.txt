@@ -1,0 +1,126 @@
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Autoimplemented Properties\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Indexers\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Overloading\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\Day2_Demos\Download_Solutions\Stepy by step guide - Custructor Chaining\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Downloads\QuickKart (19)\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\theja.narayana\Desktop\2nd_Revision_Demos\Constructor_Chaining\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.exe
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.deps.json
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.runtimeconfig.json
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfoInputs.cache
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.AssemblyInfo.cs
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.csproj.CopyComplete
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.dll
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\refint\QuickKartTestApp.dll
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.pdb
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\QuickKartTestApp.genruntimeconfig.cache
+C:\Users\andyc\Downloads\Constructor Chaining - Part II\Constructor Chaining - Part II\QuickKart\QuickKart\QuickKartTestApp\obj\Debug\net6.0\ref\QuickKartTestApp.dll
