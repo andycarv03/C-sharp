@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33020.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartBL", "QuickKartBL\QuickKartBL.csproj", "{ED31F7EF-2985-4027-9C20-C9EBCD2733C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartTestApp", "QuickKartTestApp\QuickKartTestApp.csproj", "{BAE14C2F-58BF-402E-8DAE-EB4AD95744E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED31F7EF-2985-4027-9C20-C9EBCD2733C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED31F7EF-2985-4027-9C20-C9EBCD2733C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED31F7EF-2985-4027-9C20-C9EBCD2733C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED31F7EF-2985-4027-9C20-C9EBCD2733C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE14C2F-58BF-402E-8DAE-EB4AD95744E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE14C2F-58BF-402E-8DAE-EB4AD95744E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE14C2F-58BF-402E-8DAE-EB4AD95744E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE14C2F-58BF-402E-8DAE-EB4AD95744E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {796CA23B-4199-41CB-8F87-60E3FCA29BCF}
+	EndGlobalSection
+EndGlobal
