@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/QdPDVGUD5rg0NcIycMxJoCakG/HDSeZ7QOSFaBVOQ49W0OHXeFBEzL7Vt6mHtHqGvOG/sIuh192hicN+L51g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Fundatmentals\\Interface\\Interface\\QuickKart\\QuickKartTestApp\\QuickKartTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
