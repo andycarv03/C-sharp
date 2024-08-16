@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mu9cMPKs5i8QGM6Ccogtz7DXmBTGOUhBzAxuy/FZ6qe0JXNcUwf1A5G9B7Z/dGOG1stgUijM6bL0cVUmDLvj4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\ForDependencyInversionPrinciple\\ForDependencyInversionPrinciple\\QuickKart\\QuickKartBL\\QuickKartBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
