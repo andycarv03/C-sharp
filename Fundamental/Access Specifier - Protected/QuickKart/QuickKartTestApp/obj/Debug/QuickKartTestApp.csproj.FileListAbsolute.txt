@@ -1,0 +1,38 @@
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Inheritance\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Inheritance\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Inheritance\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Inheritance\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Complete Solution\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Complete Solution\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Complete Solution\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Complete Solution\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Protected\Solution to be provided\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\andyc\Downloads\Access Specifier - Protected\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
