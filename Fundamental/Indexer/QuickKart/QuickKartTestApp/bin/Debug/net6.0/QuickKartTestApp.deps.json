@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuickKartTestApp/1.0.0": {
+        "dependencies": {
+          "QuickKartBL": "1.0.0"
+        },
+        "runtime": {
+          "QuickKartTestApp.dll": {}
+        }
+      },
+      "QuickKartBL/1.0.0": {
+        "runtime": {
+          "QuickKartBL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickKartTestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickKartBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
