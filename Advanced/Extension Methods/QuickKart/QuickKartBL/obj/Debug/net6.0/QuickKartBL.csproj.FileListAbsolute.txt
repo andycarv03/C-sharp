@@ -1,0 +1,131 @@
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 1\Generics\step by step guide - Need for Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generics\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 1\Generics\Step by step guide - Generic Method\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Implicitly Typed Variables and Arrays\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Language Enhancements\Step by step guide - Object and Collection Initializers\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - NeedForDelegates\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - SingleCastDelegate\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 2\Delegates\Step by step guide - AnonymousMethods\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Lambda Expressions\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.AssemblyReference.cache
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\2. Advanced CSharp Solutions\Day 3\Delegates Enhancements\Step by step guide - Func\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\andyc\Downloads\Extension Methods\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll

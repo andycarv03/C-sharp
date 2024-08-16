@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXH7QkVt+8y0n0ZvMBsAEdJiiEHAAy7aK4iEy+FejKWmP+o4r8HD7D3ZFXC3hEmE/ukB0hq75cKAw6luN7WQPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andyc\\Downloads\\Extension Methods\\QuickKart\\QuickKartBL\\QuickKartBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andyc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
