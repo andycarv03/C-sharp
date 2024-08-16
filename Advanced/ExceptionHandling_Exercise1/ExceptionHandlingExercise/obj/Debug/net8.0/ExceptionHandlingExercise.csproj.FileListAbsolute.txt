@@ -1,0 +1,28 @@
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.exe
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.deps.json
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.runtimeconfig.json
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.dll
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.pdb
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.AssemblyInfoInputs.cache
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.AssemblyInfo.cs
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.csproj.CoreCompileInputs.cache
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.dll
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\refint\ExceptionHandlingExercise.dll
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.pdb
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.genruntimeconfig.cache
+C:\Users\andyc\OneDrive\Documents\C#\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ref\ExceptionHandlingExercise.dll
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.exe
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.deps.json
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.runtimeconfig.json
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.dll
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net8.0\ExceptionHandlingExercise.pdb
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.AssemblyInfoInputs.cache
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.AssemblyInfo.cs
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.csproj.CoreCompileInputs.cache
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.dll
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\refint\ExceptionHandlingExercise.dll
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.pdb
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ExceptionHandlingExercise.genruntimeconfig.cache
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net8.0\ref\ExceptionHandlingExercise.dll

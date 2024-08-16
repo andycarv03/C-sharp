@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ExceptionHandlingExcerise2\\ExceptionHandlingExcerise2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ClassLibraryExceptionHandling\\ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ClassLibraryExceptionHandling\\ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ClassLibraryExceptionHandling\\ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\andyc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ClassLibraryExceptionHandling\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ExceptionHandlingExcerise2\\ExceptionHandlingExcerise2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ExceptionHandlingExcerise2\\ExceptionHandlingExcerise2.csproj",
+        "projectName": "ExceptionHandlingExcerise2",
+        "projectPath": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ExceptionHandlingExcerise2\\ExceptionHandlingExcerise2.csproj",
+        "packagesPath": "C:\\Users\\andyc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ExceptionHandlingExcerise2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ClassLibraryExceptionHandling\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\andyc\\OneDrive\\Documents\\C#\\OOP TOPICS\\Advanced\\Exception Handling\\ExceptionHandling_Excerise2\\ClassLibraryExceptionHandling\\ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

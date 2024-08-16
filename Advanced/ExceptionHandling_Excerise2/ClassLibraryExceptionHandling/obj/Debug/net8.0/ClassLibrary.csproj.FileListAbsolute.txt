@@ -1,0 +1,11 @@
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\andyc\OneDrive\Documents\C#\OOP TOPICS\Advanced\Exception Handling\ExceptionHandling_Excerise2\ClassLibraryExceptionHandling\obj\Debug\net8.0\ref\ClassLibrary.dll

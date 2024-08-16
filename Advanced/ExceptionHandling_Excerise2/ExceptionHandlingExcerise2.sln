@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingExcerise2", "ExceptionHandlingExcerise2\ExceptionHandlingExcerise2.csproj", "{1172C3E5-95B5-4457-9F57-470E3CB99857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibraryExceptionHandling\ClassLibrary.csproj", "{F6FF44C1-2C6F-42F6-86C5-86E025BE5739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1172C3E5-95B5-4457-9F57-470E3CB99857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1172C3E5-95B5-4457-9F57-470E3CB99857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1172C3E5-95B5-4457-9F57-470E3CB99857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1172C3E5-95B5-4457-9F57-470E3CB99857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FF44C1-2C6F-42F6-86C5-86E025BE5739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FF44C1-2C6F-42F6-86C5-86E025BE5739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FF44C1-2C6F-42F6-86C5-86E025BE5739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FF44C1-2C6F-42F6-86C5-86E025BE5739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B528EDC-1AA5-4DB9-9A11-8680A2EC1021}
+	EndGlobalSection
+EndGlobal
