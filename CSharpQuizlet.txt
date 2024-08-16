@@ -1,0 +1,1604 @@
+//Quiz 1
+
+What will be the output of the following code snippet?
+
+public class Employee
+{
+     static Employee()
+     {
+         Console.WriteLine("Employee");
+     }
+     public Employee()
+     {
+         Console.WriteLine("Default Constructor");
+     }
+}
+
+class HR : Employee
+{
+     public HR()
+     {
+         Console.WriteLine("HR");
+         Employee empObj = new Employee();
+     }
+     public static void Main()
+     {
+         HR hrObj = new HR();
+     }
+}
+
+Select the output from the following options:
+
+a. Employee
+   Default Constructor
+   HR
+   Default Constructor     
+
+b. Employee
+   HR
+   Default Constructor 
+
+c. Employee
+   HR 
+
+d. Employee
+   Default Constructor
+   HR
+
+Answer : a
+
+// Quiz 2
+
+Consider the following code and predict the output:
+
+public class Car
+{
+        public string carModel;
+        public string carColor;
+        public Car(string carModel, string carColor)
+        {
+            this.carModel = carModel;
+            this.carColor = carColor;
+        }
+
+        public void CarDetails()
+        {
+            Console.WriteLine("Car Model :{0} , Car Color :{1}",carModel,carColor);   
+        }
+}
+    
+class Program
+{
+        static void Main(string[] args)
+        {
+            Car carObj1 = new Car("Audi", "Black");
+            Car carObj2 = carObj1;
+            Car carObj3 = carObj2;
+
+            Car[] carObjArray = { carObj1, carObj2, carObj3 };
+
+            for(int i = 0; i < carObjArray.Length; i++)
+            {
+                if(carObjArray[i] != null)
+                {
+                    carObjArray[i].CarDetails();
+                    carObjArray[i] = null;
+                }
+            }
+        }
+}
+ 
+
+Select the output from the following options:
+
+a. Car Model :Audi , Car Color :Black
+
+b. Car Model :Audi , Car Color :Black
+   Car Model :Audi , Car Color :Black
+
+c. Car Model :Audi , Car Color :Black
+   Car Model :Audi , Car Color :Black
+   Car Model :Audi , Car Color :Black
+
+d. Runtime Error
+
+Answer : c
+
+//Quiz 3
+
+Predict the output of the following code:
+
+ class Employee
+ {
+     protected int empId;
+
+     public Employee(int empId)
+     {
+         this.empId = empId;
+     }
+ }
+ class Manager : Employee
+ {
+     public void Display()
+     {
+         Console.WriteLine("Employee Id : {0}", empId);
+     }
+ }
+ class Program
+ {
+     public static void Main()
+     {
+         Manager mgrObj = new Manager();
+         mgrObj.Display();
+     }
+ }
+
+
+Error: There is no argument given that corresponds to the required formal parameter 'empId' of 'Employee.Employee(int)'
+
+Employee Id : 0
+
+Employee Id : Garbage Value
+
+Protected variables cannot be accessed in child class
+
+Answer :  a
+
+//Quiz 4
+
+Consider the following code snippet:
+
+ class Product
+ {
+        protected internal int productId = 1000;
+        private string productName;
+        public Product(string productName)
+        {
+            this.productName = productName;
+        }
+        public string DisplayProduct()
+        {
+            return productName;
+        }
+ }
+ class Book : Product
+ {
+        private string bookId;
+
+        public Book(string productName):base(productName)
+        {
+            bookId = 'B' + (++productId).ToString();
+        }
+        public void Display()
+        { 
+            Console.WriteLine("Book ID is: "+bookId);
+        }
+ }
+ class Program
+ {
+        static void Main()
+        {
+            Book book = new Book("Alchemist");
+            Console.WriteLine("{0} is the Product Id for the Product Name {1}",book.productId,book.DisplayProduct());
+            book.Display();
+        }
+ }
+What will be the output?
+
+a. 1001 is the Product Id for the Product Name Alchemist
+   Book ID is: B1001
+
+b. 1001 is the Product Id for the Product Name Alchemis
+   Book ID is: B1000
+
+c. 1000 is the Product Id for the Product Name Alchemist
+   Book ID is: B1001
+
+d. 1000 is the Product Id for the Product Name Alchemist
+   Book ID is: B1000
+
+Answer : a
+
+//Quiz 5 
+
+Predict the output of the following code snippet :
+
+class Card
+{
+    public virtual void RenewCard()
+    {
+        Console.WriteLine("Request for renewing card");
+    }
+    public virtual void RequestCard()
+    {
+        Console.WriteLine("Request for new card");
+    }
+
+}
+class CreditCard : Card
+{
+    public override void RenewCard()
+    {
+        Console.WriteLine("Request for renewing credit card");
+    }
+    public override void RequestCard()
+    {
+        Console.WriteLine("Request for new credit card");
+    }
+}
+class CoralCard : Card
+{
+    public override void RenewCard()
+    {
+        Console.WriteLine("Request for renewing coral card");
+    }
+    public override void RequestCard()
+    {
+        Console.WriteLine("Request for new coral card");
+    }
+}
+class Program
+{
+    public static void Main(string[] args)
+    {
+        CoralCard coralCard = new CoralCard();
+        Card card = coralCard;
+        card.RenewCard();
+        card.RequestCard();
+    }
+}
+ 
+
+Select the output from the following options:
+
+a. Request for renewing coral card
+   Request for new card
+
+b. Request for renewing card
+   Request for new card
+
+c. Request for renewing coral card
+   Request for new coral card
+
+d. Request for renewing credit card
+   Request for new credit card
+
+Answer: c
+
+//Quiz 6
+
+Predict the output of the following code snippet:
+
+class Customer
+{
+    public virtual int CalculatePoints(int noOfItemsPurchased)
+    {
+        return noOfItemsPurchased * 10;
+    }
+}
+class PrivilegedCustomer : Customer
+{
+    public static int CalculatePoints(int noOfItemsPurchased)
+    {
+        return noOfItemsPurchased * 20;
+    }
+}
+class Program
+{ 
+    static void Main(string[] args)
+    {
+        Customer obj = new PrivilegedCustomer();
+        Console.WriteLine("Points gain by Customer: " + obj.CalculatePoints(7));
+    }
+}
+Select the output from the following options:
+
+a. Points gain by Customer: 140
+
+b. Points gain by Customer: 70
+
+c. Points gain by Customer: 70
+   Points gain by Customer: 140
+
+d. Points gain by Customer: 140
+   Points gain by Customer: 70
+
+Answer: b
+
+//Quiz 7
+
+
+Q7 of 25
+What will be the value of the salary after the below given code is executed?
+
+public class Employee
+{
+     private int salary;
+     public int Salary
+     {
+         private get
+         {
+             return salary;
+         }
+         set
+         {
+             salary = value;
+         }
+     }
+     public Employee(int salary)
+     {
+         this.Salary = salary;
+     }
+}
+class Program
+{
+     static void Main(string[] args)
+     {
+         Employee objCC = new Employee(10000);
+         objCC.Salary++;
+     }
+        
+}
+ 
+
+
+10000
+
+10001
+
+Compilation Error:The property cannot be used in this context because the get accessor is inaccessible
+
+10002
+
+Answer : c
+
+//Quiz 8 
+
+What will be the output of the following code snippet?
+
+ class BaggageChecking
+ {
+      static int baggageCount = 10;
+      static void Main()
+      {
+          int[] baggageWeight = new int[2];
+          baggageWeight[0] = 10;
+          baggageWeight[1] = 12;
+          foreach (int weight in baggageWeight)
+          {
+              if (weight < 15)
+              {
+                  baggageCount++;
+              }
+              else
+              {
+                  baggageCount--;
+              }
+              Console.Write("{0}  {1}  ", weight, baggageCount);
+          }
+      }
+ }
+ 
+
+
+10 11 10 11
+
+10 11 10 12
+
+10 11 12 12
+
+10 10 12 ;10
+
+Answer : c
+
+//Quiz 9
+
+SharpMarker is an online collaborative training website, they have the following code to represent a ClassRoom of a trainer with list of students and the students marks.
+
+public class ClassRoom
+{
+     private string[] studentNames; // Stores List of Student Names
+     private double[,] studentMarks; // Stores Studentwise Marks
+
+     public bool FindStudent(string studentName) // To Check Whether Student Exists or Not
+     {
+         bool status = false;
+         foreach (string name in studentNames)
+         {
+             if (name.Equals(studentName))
+             {
+                 status = true;
+                 break;
+             }
+         }
+         return status;
+     }
+
+     public string GetToper() // To Get The Name of The Top Scorer
+     {
+         // Appropriate Logic To Find Highest Scorer And Return His/Her name
+         return "Topper's name";
+     }
+
+     // Code To Manage(Set/Get) Student Names and Their Marks Comes Here
+}
+With a single reference of a ClassRoom class, the trainers should be able to performing the following activities:
+
+Setting student names and their marks
+Getting student names and their marks
+Finding a student exists in class or not
+Getting the name of the top scorer
+Suggest the most appropriate option for SharpMarker to manage their student details.
+
+
+Create Indexers for names and marks
+
+Create Properties for names and marks
+
+Create Indexer for name and Property for marks
+
+Create Property for name and Indexer for marks		//wrong
+
+Answer : ?
+
+//Quiz 10
+
+What will be the output of the following code snippet?
+
+class ClassRoom
+{
+     public static int numberOfComputers;
+     static ClassRoom()
+     {
+         numberOfComputers = 100;
+         Console.WriteLine("Computers Set Up Complete");
+     }
+     public ClassRoom()
+     {
+         Console.WriteLine("Class Room Set Up Complete");
+     }
+}
+class Program
+{
+     public static void Main(string[] args)
+     {
+         ClassRoom.numberOfComputers = ClassRoom.numberOfComputers + 1000;
+         Console.WriteLine(ClassRoom.numberOfComputers);
+         ClassRoom classRoomObj = new ClassRoom();
+     }
+}
+ 
+
+Select the output from the following options:
+
+a. Computers Set Up Complete
+   1100
+   Class Room Set Up Complete
+
+b. 1100
+   Class Room Set Up Complete
+
+c. Computers Set Up Complete
+   1100
+   Computers Set Up Complete
+   Class Room Set Up Complete
+
+d. Computers Set Up Complete
+   100
+   Class Room Set Up Complete
+
+
+Answer : a
+
+//quiz 11
+
+What will be the output of the following code snippet?
+
+interface Seller
+{
+     double CalculateTax();
+     void ShowTaxAmount();
+}
+
+class LocalSeller : Seller
+{
+     public int NumberOfProducts { get; set; }
+
+     public LocalSeller(int numberOfProducts)
+     {
+         this.NumberOfProducts = numberOfProducts;
+     }
+
+     public virtual double CalculateTax()
+     {
+         if(NumberOfProducts > 100)
+         {
+             return 800;
+         }
+         else if (NumberOfProducts > 50 && NumberOfProducts <= 100)
+         {
+             return 500;
+         }
+         else
+         {
+             return 200;
+         }
+     }
+
+     public void ShowTaxAmount()
+     {
+         Console.WriteLine(CalculateTax());
+     }
+
+}
+
+class DomesticSeller : LocalSeller
+{
+     public DomesticSeller(int numberOfProducts) : base(numberOfProducts)
+     {
+     }
+     public override double CalculateTax()
+     {
+         return 10 * NumberOfProducts;
+     }
+}
+
+class Program
+{
+     public static void Main()
+     {
+         Seller sellerObj = new DomesticSeller(80);
+         sellerObj.ShowTaxAmount();
+         ((LocalSeller)sellerObj).ShowTaxAmount();
+     }
+}
+Select the output from  the following options:
+
+a. 800
+   800
+
+b. 800
+   500
+
+c. Runtime Error due to TypeCasting of References
+
+d. Compile Time Error because ShowTaxAmount() method is not implemented in DomesticSeller class
+
+Answer : a
+
+//Quiz 12
+
+Consider the following code snippet:
+
+ public class Bill
+ {
+     public virtual void ShowBillAmount(double rentPerMonth,int durationInMonths)
+     {
+         Console.WriteLine("Total Bill Amount is: "+(rentPerMonth*durationInMonths));
+     }
+ }
+ public class Prepaid : Bill
+ {
+     public new void ShowBillAmount(double rentPerMonth, int durationInMonths)
+     {
+         int discount = 100;
+         Console.WriteLine("Total Bill Amount is: " + ((rentPerMonth* durationInMonths)-discount));
+     }
+ }
+ public class Program
+ {
+     public static void Main()
+     {
+         Bill billObj = new Bill();
+         Bill prepaidObj = new Prepaid();
+         billObj.ShowBillAmount(200,4);
+         prepaidObj.ShowBillAmount(180,2);
+     }
+ }
+Select the output from the following options:
+
+a. Total Bill Amount is: 800
+   Total Bill Amount is: 360
+
+b. Total Bill Amount is: 800		//wrong
+   Total Bill Amount is: 260
+
+c. Total Bill Amount is: 700
+   Total Bill Amount is: 360
+
+d. Total Bill Amount is: 700
+   Total Bill Amount is: 260
+
+Answer : ?
+
+//Quiz 13
+
+What will be the output of the following code snippet?
+
+interface IEmployee
+{
+     int GetSalary();
+     void SalaryIncrement(int amount);
+}
+public class SoftwareEngineer : IEmployee
+{
+     private int salary;
+     public SoftwareEngineer(int salary)
+     {
+         this.salary = salary;
+     }
+     public int GetSalary()
+     {
+         return salary;
+     }
+     public void SalaryIncrement(int amount)
+     {
+         salary += amount;
+     }
+}
+class Program
+{
+     static void Main(string[] args)
+     {
+         SoftwareEngineer c = new SoftwareEngineer(1000);
+         IEmployee e = c;
+         e.SalaryIncrement(50);
+         Console.WriteLine(c.GetSalary());
+     }
+}
+
+
+1000
+
+50
+
+1050
+
+Compile Time Error
+
+Answer : 1050
+
+//Quiz 14
+
+Predict the output of the following code snippet:
+
+public class Employee
+    {
+        int empID;
+        string name;
+        double basicSal;
+        public static int count;
+
+        static Employee()
+        {
+            count = 1000;
+        }   
+         
+        public Employee()
+        {
+            empID = ++count;
+        }
+          
+        public Employee(string name,double basicSal)
+        {
+            this.name = name;
+            this.basicSal = basicSal;
+        }       
+        
+        public void Display()
+        {
+            Console.WriteLine("Employee Number={0}\nName={1}\nBasicSal={2}", empID, name, basicSal);
+        }
+    }
+   
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee emp1 = new Employee("Jack",45000.00);
+            emp1.Display();
+        }
+    }
+ 
+
+Select the output from the following options:
+
+a. Employee Number=0
+   Name=Jack
+   BasicSal=45000
+
+b. Employee Number=1000
+   Name=Jack
+   BasicSal=45000
+
+c. Employee Number=1000
+   Name=null
+   BasicSal=0
+
+d. Employee Number=1000
+   Name=null
+   BasicSal=45000
+
+Answer: a
+
+//Quiz 15
+
+Suppose you are working on the registration portal of a shopping website.
+
+The website has a Registration class with one constructor which accepts an email id and password as input parameter.
+
+The users can also upload their card details at the time of registration but that is not mandatory and this functionality is not yet implemented.
+
+What is the best possible way to implement the requirement?
+
+Modify the already implemented constructor to accept the card details
+
+Implement a new overloaded constructor which also accepts card details along with the email id and password
+
+Implement a method that will accept the card details
+
+
+Only 1
+
+Only 2
+
+Only 3
+
+Both 1 & 2
+
+Both 1 & 3
+
+Answer : b
+
+//Quiz 16
+
+The below code gives compilation error. What needs to be done to in order to correct the code?
+
+Project 1:
+
+public class Employee
+{
+     internal int empID;
+     public static int count = 1000;
+     public Employee()
+     {
+         empID = ++count;
+     }
+}
+public class Admin
+{
+     public void PrintDetails()
+     {
+         Employee emp1 = new Employee();
+         Console.WriteLine("Employee ID=" + emp1.empID);
+     }
+}
+Project 2:
+
+public class SystemEngineer : Employee
+{
+     public void PrintDetails()
+     {
+         Console.WriteLine("Employee ID=" + empID);
+     }
+}
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        SystemEngineer systemEngineer = new SystemEngineer();
+        systemEngineer.PrintDetails();
+    }
+}
+
+Change access specifier of empID to protected				//selected
+
+Change access specifier of empID to protected internal
+
+Change access specifier of empID to private
+
+Change access specifier of empID to public					//selected
+
+Answer : ?
+
+//Quiz 17
+
+Consider the following code snippet:
+
+public class Certification  
+{
+     private int CertID = 190;
+     public int AllocationID = 2009;
+}
+
+public class Exam :Certification 
+{
+     public string Name = "Basic C#";
+}
+
+The following codes were executed in the Main() method:
+//code1
+Certification cert = new Exam();
+Exam ex = (Exam)cert;
+Console.WriteLine(ex.Name);
+
+//code2
+Exam exam = new Exam();
+Console.WriteLine(exam.CertID.ToString());
+Which of the above codes will execute successfully?
+
+
+Only code1
+
+Only code2
+
+Both code1 and code2
+
+Neither code1 nor code2		//wrong
+
+Answer: ?
+
+//Quiz 18
+
+Consider the following code snippet:
+
+public class  Card    
+{
+    public static void RequestCard()    
+    {
+        Console.WriteLine("Request Logged");  
+    }
+}
+
+public class DebitCard: Card   
+ {
+    public DebitCard()  
+    {
+        Console.WriteLine("Debit Card");
+  	Card.RequestCard() ; 
+    }
+    public static void Main()
+    {
+        DebitCard debitCardObj = new DebitCard(); 
+    }
+}
+ 
+
+What will be the output?
+
+a. Debit Card
+   Request Logged
+
+b. Debit Card
+
+c. Compilation Error: "Non-Static constructor cannot call static methods"
+
+d. Runtime Error				//wrong
+
+Answer : ?
+
+//Quiz 19
+
+What will be the output of the following code snippet?
+
+public class Employee
+{
+     int empID;
+     string name;
+     double basicSal;
+     public static int count;
+
+     static Employee()
+     {
+         count = 1000;
+     }    
+
+     public Employee(string name,double basicSal)
+     {
+         empID = ++count;
+         this.name = name;
+         this.basicSal = basicSal+basicSal * .10;
+     }
+
+     public void Update(ref string lName, out double hra)
+     {
+         lName = this.name +" "+ lName;
+     }
+}
+   
+public class Program
+{
+     static void Main(string[] args)
+     {            
+         Employee emp1 = new Employee("James",45000);
+         string lName = "Paul";
+         double hra = 4950;
+         emp1.Update(ref lName, out hra);
+         Console.WriteLine("Updated Data\nName={0}\nHRA={1}", lName,hra);
+     }
+}
+ 
+
+Select the output from the following options:
+
+a. Updated Data
+   Name=James Paul
+   HRA=4950
+
+b. Updated Data
+   Name=null
+   HRA=0
+
+c. Updated Data
+   Name=James Paul
+   HRA=0
+
+d. Compilation Error
+
+Answer : d
+
+//Quiz 20
+
+An online shopping website wants to update a product name and category when required.
+
+The following code has been written by the developer.
+
+class Program
+{
+        public static string UpdateProduct(string productName, string productCategory)
+        {
+            productName = "iPhone 7";
+            productCategory = "Mobile";
+            return productName;
+        }
+
+        public static void Main(string[] args)
+        {
+            string productName = "Alchemist";
+            string productCategory = "Books";
+            productName=UpdateProduct(productName, productCategory);
+            Console.WriteLine(productName);
+            Console.WriteLine(productCategory);
+        }
+}
+Will the code work as intended?
+
+
+Yes. The Code will work fine
+
+No. Only productName will be updated
+
+No. Only productCategory will be updated
+
+No. Neither productName nor productCategory will be updated
+
+Answer: b
+
+//Quiz 21
+
+Predict the correct output of the following code snippet:
+
+abstract class Calculator
+{
+     private int numberOne;
+     protected int numberTwo;
+
+     public int NumberOne
+     {
+         get { return numberOne; }
+         set{ numberOne = value; }
+     }
+
+     public abstract int NumberTwo { get; set; }
+     public abstract void Display();
+}
+     
+class Addition : Calculator
+{
+     public int NumberTwo
+     {
+         get { return numberTwo; }
+         set { numberTwo = value; }
+     }
+     
+     public override void Display()
+     {
+         this.NumberTwo = 3;
+         Console.WriteLine("Sum of two numbers is: " + (NumberOne + NumberTwo));
+     }
+}
+     
+class Program
+{
+     static void Main(string[] args)
+     {
+         Addition addObj = new Addition();
+         addObj.NumberOne = 1;
+         addObj.NumberTwo = 6;
+         addObj.Display();
+     }
+}
+
+Sum of two numbers is: 6
+
+Sum of two numbers is: 4
+
+Sum of two numbers is: 7
+
+</br>Compilation Error: Addition does not implement inherited abstract member ‘Calculator.NumberTwo’
+
+Answer : d
+
+//Quiz 22
+
+What is the output of the following code snippet?
+
+class Program
+{
+     static void Main(string[] args)
+     {
+          int[] arrayValues = new int[] { 1, 2, 3, 4, 5 };
+
+          UpdateValues(arrayValues);
+
+          for (int i = 0; i < arrayValues.Length; i++)
+          {
+                Console.WriteLine(arrayValues[i] + "  ");
+          }
+     }
+
+     static void UpdateValues(int[] oldValues)
+     {
+          oldValues = new int[6];
+          oldValues[3] = 32;
+          oldValues[1] = 24;
+    }
+}
+
+1, 2, 3, 4, 5
+
+0, 24, 0, 32, 0, 0
+
+1, 24, 3, 32, 5
+
+1, 24, 3, 32, 5, 0
+
+Answer : a
+
+//Quiz 23
+
+What is the output of the following code snippet?
+
+public class Employee
+ {
+     public static int salary = 10000;
+ }
+ class Manager:Employee
+ {
+     public Manager()
+     {
+         salary = 30000;
+     }
+
+     public static void Main()
+     {
+
+         Manager mgrObj = new Manager();
+         Console.WriteLine("Employee Salary : " + Employee.salary);
+         Console.WriteLine("Manager Salary : " + Manager.salary);
+     }
+}
+Select the output from the following options:
+
+a. Employee Salary : 30000
+   Manager Salary : 30000
+
+b. Employee Salary : 10000
+   Manager Salary : 30000
+
+c. Employee Salary : 10000				//wrong
+   Manager Salary : 10000
+
+d. Employee Salary : 30000
+   Manager Salary : 10000
+
+Answer : ?
+
+//Quiz 24
+
+An online shopping website has the requirement of updating specific product prices during festive seasons.The developer has written the following code.
+
+When the tester ran the code, he found out that product price was not updated.
+
+What was the error?
+
+   public struct Product 
+   {
+        public int productId;
+        public string productName;
+        public int price;
+    }
+   
+   public class Program 
+   {
+        public static void Main()
+   	    {
+            Product productObj = new Product();
+            productObj.productId = 101;
+            productObj.productName = "XBOX One";
+            productObj.price = 40000;
+            Console.WriteLine("Before Price Update : " + productObj.price);
+            UpdatePrice(productObj);
+            Console.WriteLine("After Price Update : " + productObj.price);
+        }
+   	    
+        public static void UpdatePrice(Product productObj)
+        {
+            productObj.price = 35000;
+        }
+   }
+
+The method “UpdatePrice()” cannot be called directly
+
+Struct is a value type so the price would not be updated					//wrong
+
+Struct variable values can be set only once and cannot be changed further
+
+No Error and the code will work fine.
+
+Answer : ? 
+
+//Quiz 25
+
+What will be the output for the below given code snippet?
+
+namespace Infosys.TestYourCode
+{
+    class Maths
+    {
+        public int functionSum(int valueX, int valueY)
+        {
+            return valueX + valueY;
+        }
+        public int functionSumMore(int valueA, float valueB)
+        {
+            return (valueA + (int)valueB);
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Maths obj = new Maths();
+            int iValueOne;
+            int iValueTwo = 90;
+            int iValueThree = 100;
+            int iValueFour = 12;
+            float fValueFive = 14.78f;
+            iValueOne = obj.functionSum(iValueTwo, iValueThree);
+            Console.WriteLine(iValueOne);
+
+            int j = (obj.functionSumMore(iValueFour, fValueFive));
+
+            Console.WriteLine(j);
+            Console.ReadLine();
+        }
+    }
+}
+
+
+190, 26.78f
+
+0, 26.78f
+
+190, 26
+
+190, 0
+
+Answer : c
+
+=========================================================================
+
+Q1 of 10
+
+Predict the output of the following code snippet:
+
+var x = 10;
+
+x = 10.5;
+
+Console.WriteLine(x);
+
+10
+10.5
+Compile time error 			//answer, int to decimal type cast error. (narrow and wide conversion)
+Runtime error
+
+Q2 of 10
+
+What is the difference between var and dynamic in c#?
+
+No intellisense support for var, intellisense support for dynamic
+var allows variable types of values to be assigned whereas dynamic doesn't
+dynamic allows multiple types of values to be assigned whereas var doesn't 			//answer
+No difference
+
+Q3 of 10
+
+Which of the following access specifier allows the class members to be accessible by all the classes within the same assembly?
+
+Public
+Protected
+Internal 					//answer
+Protected Internal
+
+Q4 of 10
+
+Predict the output of the below code snippet:
+
+try
+
+{
+
+        int a = 0, b = 10;
+
+}
+
+catch(Exception ex)
+
+{
+
+        Console.WriteLine("Exception");
+
+}
+
+catch(DivideByZeroException ex)
+
+{
+
+        Console.WriteLine("Divide By Zero Exception");
+
+}
+
+ 
+
+Exception
+Divide By Zero Exception
+Compilation Error 							//answer
+Compiles successfully and gives no result
+
+Q5 of 10
+
+What changes do you have to make such that the output of the code will be "John Sturgis"?
+
+string firstname = "John ";
+
+string lastname = "Sturgis";
+
+firstname = string.Concat(firstname, lastname);
+
+Console.WriteLine(firstname);
+
+It works fine 								//answer
+Replace Line 03 with firstname += lastname
+Replace Line 03 with lastname += firstname and Line 04 with Console.WriteLine(lastname)
+
+Q6 of 10
+
+Predict the output of the following code snippet:
+
+static int x = 10;
+
+public static void Main()
+
+{
+
+      int x = 11;
+
+     Console.WriteLine(x);
+
+     Method1();
+
+}
+
+static void Method1()
+
+{
+
+      Console.WriteLine(x);
+
+}
+
+10 10
+11 11
+11 10 					//answer
+Compilation Error
+
+Q7 of 10
+
+Predict the output of the below code snippet:
+
+string[] names = {"Johne", "Sturgis", "John1", "Stur"};
+
+Array.Sort(names);
+
+foreach(string name in names)
+
+{
+        Console.WriteLine(name);
+
+}
+
+Johne Sturgis John1 Stur
+John1 Johne Stur Sturgis 		//answer
+John1 Stur Johne Sturgis
+Johne John1 Stur Sturgis
+
+Q8 of 10
+
+Which of the following is the short hand syntax for Nullable types?
+
+<dataType>$
+<dataType>!
+<dataType>~
+<dataType>? 				//answer
+
+Q9 of 10
+
+Predict the output of the below code snippet:
+
+int i;
+
+Console.WriteLine(i)
+
+0
+null
+1546435 (garbage value)
+Compilation Error 				//answer (all primitive data types are non-nullable types)
+
+Q10 of 10
+
+Predict the output of the below code snippet:
+
+enum Days
+
+{
+
+Monday,
+
+Tuesday,
+
+Wednesday = 7,
+
+Thursday,
+
+Friday,
+
+Saturday,
+
+Sunday
+
+}
+
+Console.WriteLine((int)Days.Thursday);
+
+2
+8 								//answer
+0
+Compilation Error at Conversion
+
+Q11. public class Generic<T>
+{
+    public T Name;
+}
+class Program
+{
+    static void Main(string [] args)
+    {
+        Generic<string> g = new Generic<string>();
+        g.Name = "Jack";
+        Console.WriteLine("Name : " + g.Name);
+    }
+}
+
+a. Compile Time error : "public" modifier cannot be used for class Generic<T>
+b. Compile Time error : Generic being a namespace name cannot be used as a class name
+c. Runtime error
+d. Name : Jack 
+
+Answer: d
+
+Q 12.
+
+public class A
+{
+     public void TestMethod<M>(M arg)
+     {
+         Console.WriteLine(arg);
+     }
+}
+
+class Program
+{
+     static void Main(string [] args)
+     {
+         A obj = new A();
+         obj.TestMethod("Hello");
+         obj.TestMethod(4.2f);
+     }
+}
+
+a. Hello 
+    4.2
+
+b. Compile time error
+
+c. Run time error
+
+d. Hello
+
+Answer: A // <M> to the method is inferred during compile time and hence both the method calls with two different data types would be successfully executed
+
+Q 13.
+
+Which of the following is an INCORRECT statement about delegates in C#?
+
+Delegates are of reference types
+Delegate object can point to those methods which are having same signature as the delegate
+Delegates are type safe
+We cannot invoke more than one method using a single delegate object  //wrong
+
+Q 14.
+Which of the following is a CORRECT statement about multicast delegates?
+
+o Multicast delegates can accept methods of different signatures
+o Only delegates of the same type can be combined //correct
+	Multicast delegates can only accept methods having same signature as the delegate
+
+o Once one delegate is added to the invocation list cannot be removed from the list
+o In a multicast delegate, the methods are executed in the reverse order in which they were added
+
+Q 15.
+
+  delegate void SubstringDelegate(ref string str);
+
+    class Class1
+    {
+        public static void fun( ref string a)
+        {
+            a = a.Substring( 5, a.Length - 5);
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            SubstringDelegate str1;
+            string str = "Hello_World";
+            str1 = Class1.fun;
+            str1(ref str);
+            Console.WriteLine(str);
+        }
+    }
+
+substring(startindex, length)
+
+_World		//answer
+World
+H_World
+Hello_
+
+Q16.
+Which of the following is INCORRECT about anonymous methods?
+
+o Anonymous method does not have a name
+o Anonymous methods must be static methods 	//answer
+		It's not necessary that anonymous methods must be static methods  
+
+o Anonymous method cannot access the ref or out parameter of an outer scope
+o The keyword which is used to declare anonymous method is ‘delegate’
+
+Q17
+
+Anonymous methods provide a technique to pass a code block as a _______________.
+
+o String parameter
+o delegate parameter 	//answer
+	Delegate parameters can accept anonymous method as parameters. Delegates are pointers to methods. Any method accepting a delegate parameter can use it to invoke the o anonymous method
+
+o Collection parameter
+o dynamic parameter
+
+Q18
+What will be the output of the following code snippet?
+
+    int[] numbers = { 10, 5, 8, 7, 12, 15, 31, 56, 21 };
+    bool isEmpty = numbers.Any ( n => n % 2 == 0 );
+    Console.WriteLine(isEmpty);
+
+a. false
+
+b. null
+
+c. 10 
+    5 
+    8 
+    7
+
+d. true 	//answer
+
+Q19
+
+int[] source = new[] { 13, 28, 4, 16, 11, 27, 9, 42, 24, 8 };
+
+foreach (int i in source.Where(
+    x =>
+    {
+        if ((x / 4) <= 3)  
+            return true;
+        else if ((x / 4) >= 7)  
+            return true;
+        return false;
+     }))
+Console.WriteLine(i);
+
+Choose the correct option from the following:
+
+a.  28  
+     4  
+    11 
+    9 
+    42  
+    8
+
+b.  4
+     11  
+     9   
+     42   
+     8
+
+c. 13   
+    4  
+    11   
+    9   
+    42   
+    8
+   
+
+d. 13   
+    28   
+    4   
+    11  
+    9   
+    42   
+    8
+
+Answer : d
+
+Q20
+
+Consider the following code snippet on Extension Methods.
+
+public static class ExtensionClass
+{
+    public static string Pluralize (this string s) {...}
+    public static string Capitalize (this string s) {...}
+}
+Identify the best option to pluralize as well as capitalize the same string.
+
+[Assumption: "str" is a variable of string type in the given options]
+
+a. string result = str.Pluralize() + str.Capitalize();
+
+b. string result = str.Pluralize().Capitalize();
+
+c. string result = str.Pluralize();
+   result += str.Capitalize();
+
+d. string result = str.Pluralize(this.Capitalize());
+
+Answer: b
+
