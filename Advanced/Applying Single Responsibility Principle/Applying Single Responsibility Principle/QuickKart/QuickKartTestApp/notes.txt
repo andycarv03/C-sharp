@@ -1,0 +1,7 @@
+﻿Customer class is used to retrieve and update contact details, whereas PersistCustomerDetails class is used exclusively for saving Customer details. This class now has a future scope to include functionality where it needs to connect to a Server and Database to save the Customer Details or in an excel file with columns.
+
+Following are the advantages and contribute to easy maintenance of the application. 
+
+	Reusability of both the classes are increased
+	Results in less lengthy code in each class
+	More flexible towards changes in business requirements in future
